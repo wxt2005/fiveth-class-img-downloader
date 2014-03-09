@@ -1,0 +1,2 @@
+My first Scrapy project to catch all images in http://5-y.2-d.jp/pict.html.
+You need Scrapy, PIL or Pillow.
